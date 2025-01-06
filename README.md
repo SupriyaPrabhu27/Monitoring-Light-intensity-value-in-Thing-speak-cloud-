@@ -5,8 +5,6 @@
 
 # Experiment 4:- Monitoring Light intensity value in Thing speak cloud
 
-# Uploading LDR sensor data in Thing Speak cloud
-
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
 # Apparatus required:
